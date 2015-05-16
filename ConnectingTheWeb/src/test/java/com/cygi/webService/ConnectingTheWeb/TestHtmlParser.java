@@ -29,9 +29,11 @@ public class TestHtmlParser {
 		Document doc = Jsoup.parseBodyFragment(htmlPage);
 		
 		Element body = doc.body();
-				body.getAllElements();
 				
-				// bla bla bla 
+				
+				
+				// juz nie bla bla juz jestem w drugim eklipise bum bum
+				
 	//	System.out.println(htmlPage);
 		System.out.println(body);
 		
