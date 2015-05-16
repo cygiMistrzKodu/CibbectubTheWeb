@@ -30,6 +30,8 @@ public class TestHtmlParser {
 		
 		Element body = doc.body();
 				body.getAllElements();
+				
+				// bla bla bla 
 	//	System.out.println(htmlPage);
 		System.out.println(body);
 		
