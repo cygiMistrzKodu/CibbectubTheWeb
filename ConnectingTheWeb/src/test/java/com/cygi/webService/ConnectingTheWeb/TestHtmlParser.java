@@ -29,7 +29,7 @@ public class TestHtmlParser {
 		Document doc = Jsoup.parseBodyFragment(htmlPage);
 		
 		Element body = doc.body();
-				
+				body.getAllElements();
 	//	System.out.println(htmlPage);
 		System.out.println(body);
 		
