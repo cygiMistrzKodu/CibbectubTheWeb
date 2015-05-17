@@ -1,7 +1,5 @@
 package com.cygi.webService.ConnectingTheWeb;
 
-import static org.junit.Assert.*;
-
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
