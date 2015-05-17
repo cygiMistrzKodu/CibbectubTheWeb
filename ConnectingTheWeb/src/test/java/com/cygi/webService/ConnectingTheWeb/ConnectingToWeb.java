@@ -33,7 +33,7 @@ public class ConnectingToWeb {
 		System.out.println(temperature.text());
 		//System.out.println(tableWithWether);
 		
-		System.out.println("Temperatura we Wrocławiu : " + temperature.text());
+		System.out.println("Temperatura we Wrocławiu jutro : " + temperature.text());
 		
 	}
 
