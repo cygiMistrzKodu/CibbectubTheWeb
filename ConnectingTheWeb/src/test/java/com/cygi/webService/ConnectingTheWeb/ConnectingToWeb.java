@@ -15,7 +15,7 @@ public class ConnectingToWeb {
 	public void takeWhetherTemperatureFromSiteAndDisplayItForTwonWroclaw() throws IOException {
 		
 		String site = "http://www.twojapogoda.pl/";
-		
+		// duap na manhatanie
 		
 		
 		Document doc = Jsoup.connect(site).get();
